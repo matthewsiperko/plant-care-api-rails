@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  latin_name: MyString
+  common_name: MyString
+  temperature_max: 1
+  temperature_min: 1
+  humidity: 1
+  light: MyString
+  water: MyString
+  img: MyString
+  notes: MyText
+
+two:
+  latin_name: MyString
+  common_name: MyString
+  temperature_max: 1
+  temperature_min: 1
+  humidity: 1
+  light: MyString
+  water: MyString
+  img: MyString
+  notes: MyText
